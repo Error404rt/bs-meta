@@ -1,0 +1,2210 @@
+{
+  "updatedFor": "Текущий сезон (на основе последнего обновления баланса)",
+  "brawlers": {
+    "16000106": {
+      "name": "Bolt",
+      "class": "Unknown",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Toss Up",
+        "gadget": "Rocket Laces"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000105": {
+      "name": "Starr Nova",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Power Level Maximum",
+        "gadget": "Floaty Time"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000104": {
+      "name": "Damian",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Crowdkill",
+        "gadget": "Spiritual Healing"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000103": {
+      "name": "Najia",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Poisonous Protector",
+        "gadget": "Poison Puddles"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000102": {
+      "name": "Sirius",
+      "class": "Unknown",
+      "rarity": "Ultra Legendary",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 4,
+        "brawlBall": 2,
+        "knockout": 5,
+        "bounty": 5,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 5
+      },
+      "bestBuild": {
+        "starPower": "Dusk Runners",
+        "gadget": "A Starr Is Born"
+      },
+      "topMode": "knockout"
+    },
+    "16000101": {
+      "name": "Glowy",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Biotic Ecosystem",
+        "gadget": "Slippery Savior"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000100": {
+      "name": "Gigi",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Plie Protection",
+        "gadget": "Longer Strings"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000099": {
+      "name": "Pierce",
+      "class": "Unknown",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 2,
+        "knockout": 4,
+        "bounty": 4,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Mission Swimpossible",
+        "gadget": "Bottomless Mags"
+      },
+      "topMode": "knockout"
+    },
+    "16000098": {
+      "name": "Ziggy",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Thunderstruck",
+        "gadget": "Electric Shuffle"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000097": {
+      "name": "Mina",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Zum Zum Zum",
+        "gadget": "Windmill"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000096": {
+      "name": "Trunk",
+      "class": "Unknown",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "New Insect Overlords",
+        "gadget": "For The Queen"
+      },
+      "topMode": "heist"
+    },
+    "16000095": {
+      "name": "Alli",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Lizard Limbs",
+        "gadget": "Feed The Gators"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000094": {
+      "name": "Kaze",
+      "class": "Unknown",
+      "rarity": "Ultra Legendary",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 4,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 5,
+        "duoShowdown": 5,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Advanced Techniques",
+        "gadget": "Gracious Host"
+      },
+      "topMode": "soloShowdown"
+    },
+    "16000093": {
+      "name": "Jae-Yong",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "The Crowd Goes Mild",
+        "gadget": "Weekend Warrior"
+      },
+      "topMode": "soloShowdown"
+    },
+    "16000092": {
+      "name": "Finx",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Hieroglyph Halt",
+        "gadget": "Back To The Finxture"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000091": {
+      "name": "Lumi",
+      "class": "Damage Dealer",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 4,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "42% Burnt",
+        "gadget": "Hit The Lights"
+      },
+      "topMode": "heist"
+    },
+    "16000090": {
+      "name": "Ollie",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 2,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Kick Push",
+        "gadget": "Regulate"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000089": {
+      "name": "Meeple",
+      "class": "Unknown",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Do Not Pass Go",
+        "gadget": "Mansions Of Meeple"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000088": {
+      "name": "Buzz Lightyear",
+      "class": "Unknown",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Laser Mode",
+        "gadget": "Turbo Boosters"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000087": {
+      "name": "Juju",
+      "class": "Artillery",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 5,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Guarded Gris-Gris",
+        "gadget": "Voodoo Chile"
+      },
+      "topMode": "hotZone"
+    },
+    "16000086": {
+      "name": "Shade",
+      "class": "Assassin",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Spooky Speedster",
+        "gadget": "Longarms"
+      },
+      "topMode": "soloShowdown"
+    },
+    "16000085": {
+      "name": "Kenji",
+      "class": "Assassin",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 2,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 5,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Studied The Blade",
+        "gadget": "Dashi Dash"
+      },
+      "topMode": "soloShowdown"
+    },
+    "16000084": {
+      "name": "Moe",
+      "class": "Damage Dealer",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 4,
+        "bounty": 3,
+        "hotZone": 5,
+        "soloShowdown": 5,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Skipping Stones",
+        "gadget": "Dodgy Digging"
+      },
+      "topMode": "hotZone"
+    },
+    "16000083": {
+      "name": "Clancy",
+      "class": "Damage Dealer",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 5,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 4,
+        "bounty": 4,
+        "hotZone": 4,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 5
+      },
+      "bestBuild": {
+        "starPower": "Recon",
+        "gadget": "Snappy Shooting"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000082": {
+      "name": "Berry",
+      "class": "Support",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Floor Is Fine",
+        "gadget": "Friendship Is Great"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000081": {
+      "name": "Lily",
+      "class": "Assassin",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 5,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Spiky",
+        "gadget": "Vanish"
+      },
+      "topMode": "soloShowdown"
+    },
+    "16000080": {
+      "name": "Draco",
+      "class": "Tank",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 2,
+        "bounty": 1,
+        "hotZone": 3,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Expose",
+        "gadget": "Upper Cut"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000079": {
+      "name": "Angelo",
+      "class": "Marksman",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 2,
+        "knockout": 4,
+        "bounty": 5,
+        "hotZone": 2,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Empower",
+        "gadget": "Stinging Flight"
+      },
+      "topMode": "bounty"
+    },
+    "16000078": {
+      "name": "Melodie",
+      "class": "Assassin",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Fast Beats",
+        "gadget": "Perfect Pitch"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000077": {
+      "name": "Larry & Lawrie",
+      "class": "Artillery",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 5,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 5,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Protocol Protect",
+        "gadget": "Order Swap"
+      },
+      "topMode": "heist"
+    },
+    "16000076": {
+      "name": "Kit",
+      "class": "Support",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 2,
+        "duoShowdown": 5,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Power Hungry",
+        "gadget": "Cardboard Box"
+      },
+      "topMode": "duoShowdown"
+    },
+    "16000075": {
+      "name": "Mico",
+      "class": "Assassin",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 2,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 2,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Monkey Business",
+        "gadget": "Clipping Scream"
+      },
+      "topMode": "soloShowdown"
+    },
+    "16000074": {
+      "name": "Charlie",
+      "class": "Controller",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Digestive",
+        "gadget": "Spiders"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000073": {
+      "name": "Chuck",
+      "class": "Damage Dealer",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 5,
+        "brawlBall": 4,
+        "knockout": 4,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Pit Stop",
+        "gadget": "Rerouting"
+      },
+      "topMode": "heist"
+    },
+    "16000072": {
+      "name": "Pearl",
+      "class": "Damage Dealer",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 5,
+        "brawlBall": 3,
+        "knockout": 4,
+        "bounty": 3,
+        "hotZone": 5,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 5
+      },
+      "bestBuild": {
+        "starPower": "Heat Retention",
+        "gadget": "Overcooked"
+      },
+      "topMode": "heist"
+    },
+    "16000071": {
+      "name": "Doug",
+      "class": "Support",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 5,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 2,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Fast Food",
+        "gadget": "Double Sausage"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000070": {
+      "name": "Cordelius",
+      "class": "Assassin",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Comboshrooms",
+        "gadget": "Replanting"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000069": {
+      "name": "Hank",
+      "class": "Tank",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 2,
+        "bounty": 1,
+        "hotZone": 3,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Its Gonna Blow",
+        "gadget": "Water Balloons"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000068": {
+      "name": "Maisie",
+      "class": "Marksman",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 2,
+        "knockout": 4,
+        "bounty": 4,
+        "hotZone": 2,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Pinpoint Precision",
+        "gadget": "Disengage"
+      },
+      "topMode": "knockout"
+    },
+    "16000067": {
+      "name": "Willow",
+      "class": "Controller",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Love Is Blind",
+        "gadget": "Spellbound"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000066": {
+      "name": "R-T",
+      "class": "Damage Dealer",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Quick Maths",
+        "gadget": "Out Of Line"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000065": {
+      "name": "Mandy",
+      "class": "Marksman",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 4,
+        "brawlBall": 2,
+        "knockout": 5,
+        "bounty": 5,
+        "hotZone": 2,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "In My Sights",
+        "gadget": "Caramelize"
+      },
+      "topMode": "knockout"
+    },
+    "16000064": {
+      "name": "Gray",
+      "class": "Support",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 2,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Fake Injury",
+        "gadget": "Walking Cane"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000063": {
+      "name": "Chester",
+      "class": "Damage Dealer",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 3,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Single Bellomania",
+        "gadget": "Spicy Dice"
+      },
+      "topMode": "heist"
+    },
+    "16000062": {
+      "name": "Buster",
+      "class": "Tank",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 2,
+        "heist": 4,
+        "brawlBall": 4,
+        "knockout": 2,
+        "bounty": 1,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Blockbuster",
+        "gadget": "Utility Belt"
+      },
+      "topMode": "heist"
+    },
+    "16000061": {
+      "name": "Gus",
+      "class": "Support",
+      "rarity": "Super Rare",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 2,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Health Bonanza",
+        "gadget": "Kooky Popper"
+      },
+      "topMode": "duoShowdown"
+    },
+    "16000060": {
+      "name": "Sam",
+      "class": "Assassin",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Hearty Recovery",
+        "gadget": "Magnetic Field"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000059": {
+      "name": "Otis",
+      "class": "Controller",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Stencil Glue",
+        "gadget": "Dormant Star"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000058": {
+      "name": "Bonnie",
+      "class": "Marksman",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 2,
+        "brawlBall": 4,
+        "knockout": 4,
+        "bounty": 4,
+        "hotZone": 2,
+        "soloShowdown": 3,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Black Powder",
+        "gadget": "Sugar Rush"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000057": {
+      "name": "Janet",
+      "class": "Marksman",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 2,
+        "brawlBall": 3,
+        "knockout": 4,
+        "bounty": 5,
+        "hotZone": 4,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Stage View",
+        "gadget": "Drop The Bass"
+      },
+      "topMode": "bounty"
+    },
+    "16000056": {
+      "name": "Eve",
+      "class": "Damage Dealer",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Unnatural Order",
+        "gadget": "Gotta Go"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000054": {
+      "name": "Fang",
+      "class": "Assassin",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Fresh Kicks",
+        "gadget": "Corn-Fu"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000053": {
+      "name": "Lola",
+      "class": "Damage Dealer",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Improvise",
+        "gadget": "Freeze Frame"
+      },
+      "topMode": "heist"
+    },
+    "16000052": {
+      "name": "Meg",
+      "class": "Tank",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 4,
+        "knockout": 2,
+        "bounty": 1,
+        "hotZone": 3,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Force Field",
+        "gadget": "Jolting Volts"
+      },
+      "topMode": "heist"
+    },
+    "16000051": {
+      "name": "Ash",
+      "class": "Tank",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 2,
+        "bounty": 1,
+        "hotZone": 3,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "First Bash",
+        "gadget": "Chill Pill"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000050": {
+      "name": "Griff",
+      "class": "Controller",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 5,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Keep The Change",
+        "gadget": "Piggy Bank"
+      },
+      "topMode": "heist"
+    },
+    "16000049": {
+      "name": "Buzz",
+      "class": "Assassin",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Tougher Torpedo",
+        "gadget": "Reserve Buoy"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000048": {
+      "name": "Grom",
+      "class": "Artillery",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 2,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Foot Patrol",
+        "gadget": "Watchtower"
+      },
+      "topMode": "hotZone"
+    },
+    "16000047": {
+      "name": "Squeak",
+      "class": "Controller",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Chain Reaction",
+        "gadget": "Windup"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000046": {
+      "name": "Belle",
+      "class": "Marksman",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 4,
+        "bounty": 5,
+        "hotZone": 2,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Positive Feedback",
+        "gadget": "Nest Egg"
+      },
+      "topMode": "bounty"
+    },
+    "16000045": {
+      "name": "Stu",
+      "class": "Assassin",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 5,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Zero Drag",
+        "gadget": "Speed Zone"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000044": {
+      "name": "Ruffs",
+      "class": "Support",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 2,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Air Superiority",
+        "gadget": "Take Cover"
+      },
+      "topMode": "duoShowdown"
+    },
+    "16000043": {
+      "name": "Edgar",
+      "class": "Assassin",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 2,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 2,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Hard Landing",
+        "gadget": "Lets Fly"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000042": {
+      "name": "Byron",
+      "class": "Support",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 2,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Malaise",
+        "gadget": "Shot In The Arm"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000041": {
+      "name": "Lou",
+      "class": "Controller",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Supercool",
+        "gadget": "Ice Block"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000040": {
+      "name": "Amber",
+      "class": "Controller",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Wild Flames",
+        "gadget": "Fire Starters"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000039": {
+      "name": "Colette",
+      "class": "Damage Dealer",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Push It",
+        "gadget": "Na-Ah"
+      },
+      "topMode": "heist"
+    },
+    "16000038": {
+      "name": "Surge",
+      "class": "Damage Dealer",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 5,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 4,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "To The Max",
+        "gadget": "Power Surge"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000037": {
+      "name": "Sprout",
+      "class": "Artillery",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Overgrowth",
+        "gadget": "Garden Mulcher"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000036": {
+      "name": "Nani",
+      "class": "Marksman",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 2,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 2,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Autofocus",
+        "gadget": "Warpin Time"
+      },
+      "topMode": "soloShowdown"
+    },
+    "16000035": {
+      "name": "Gale",
+      "class": "Controller",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Blustery Blow",
+        "gadget": "Spring Ejector"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000034": {
+      "name": "Jacky",
+      "class": "Tank",
+      "rarity": "Super Rare",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 2,
+        "bounty": 1,
+        "hotZone": 4,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Counter Crush",
+        "gadget": "Pneumatic Booster"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000032": {
+      "name": "Max",
+      "class": "Support",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 2,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Super Charged",
+        "gadget": "Phase Shifter"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000031": {
+      "name": "Mr. P",
+      "class": "Controller",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Handle With Care",
+        "gadget": "Service Bell"
+      },
+      "topMode": "heist"
+    },
+    "16000030": {
+      "name": "Emz",
+      "class": "Controller",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Bad Karma",
+        "gadget": "Friendzoner"
+      },
+      "topMode": "fiveVsFive"
+    },
+    "16000029": {
+      "name": "Bea",
+      "class": "Marksman",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 2,
+        "brawlBall": 2,
+        "knockout": 4,
+        "bounty": 3,
+        "hotZone": 2,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Insta Beaload",
+        "gadget": "Honey Molasses"
+      },
+      "topMode": "knockout"
+    },
+    "16000028": {
+      "name": "Sandy",
+      "class": "Controller",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Rude Sands",
+        "gadget": "Sleep Stimulator"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000027": {
+      "name": "8-Bit",
+      "class": "Damage Dealer",
+      "rarity": "Super Rare",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Boosted Booster",
+        "gadget": "Cheat Cartridge"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000026": {
+      "name": "Bibi",
+      "class": "Tank",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 5,
+        "knockout": 2,
+        "bounty": 1,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Home Run",
+        "gadget": "Vitamin Booster"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000025": {
+      "name": "Carl",
+      "class": "Damage Dealer",
+      "rarity": "Super Rare",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 4,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Power Throw",
+        "gadget": "Heat Ejector"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000024": {
+      "name": "Rosa",
+      "class": "Tank",
+      "rarity": "Rare",
+      "ratings": {
+        "gemGrab": 2,
+        "heist": 4,
+        "brawlBall": 4,
+        "knockout": 2,
+        "bounty": 1,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Plant Life",
+        "gadget": "Grow Light"
+      },
+      "topMode": "heist"
+    },
+    "16000023": {
+      "name": "Leon",
+      "class": "Assassin",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Smoke Trails",
+        "gadget": "Clone Projector"
+      },
+      "topMode": "soloShowdown"
+    },
+    "16000022": {
+      "name": "Tick",
+      "class": "Artillery",
+      "rarity": "Super Rare",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 2,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Well Oiled",
+        "gadget": "Mine Mania"
+      },
+      "topMode": "heist"
+    },
+    "16000021": {
+      "name": "Gene",
+      "class": "Controller",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 5,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Magic Puffs",
+        "gadget": "Lamp Blowout"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000020": {
+      "name": "Frank",
+      "class": "Tank",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 2,
+        "heist": 5,
+        "brawlBall": 4,
+        "knockout": 2,
+        "bounty": 1,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Power Grab",
+        "gadget": "Active Noise Canceling"
+      },
+      "topMode": "heist"
+    },
+    "16000019": {
+      "name": "Penny",
+      "class": "Artillery",
+      "rarity": "Super Rare",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Heavy Coffers",
+        "gadget": "Salty Barrel"
+      },
+      "topMode": "heist"
+    },
+    "16000018": {
+      "name": "Darryl",
+      "class": "Tank",
+      "rarity": "Super Rare",
+      "ratings": {
+        "gemGrab": 2,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 2,
+        "bounty": 1,
+        "hotZone": 4,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Steel Hoops",
+        "gadget": "Recoiling Rotator"
+      },
+      "topMode": "heist"
+    },
+    "16000017": {
+      "name": "Tara",
+      "class": "Damage Dealer",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 4,
+        "hotZone": 4,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Black Portal",
+        "gadget": "Psychic Enhancer"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000016": {
+      "name": "Pam",
+      "class": "Support",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Mamas Hug",
+        "gadget": "Pulse Modulator"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000015": {
+      "name": "Piper",
+      "class": "Marksman",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 2,
+        "brawlBall": 2,
+        "knockout": 5,
+        "bounty": 5,
+        "hotZone": 2,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Ambush",
+        "gadget": "Auto Aimer"
+      },
+      "topMode": "knockout"
+    },
+    "16000014": {
+      "name": "Bo",
+      "class": "Controller",
+      "rarity": "Epic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Circling Eagle",
+        "gadget": "Super Totem"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000013": {
+      "name": "Poco",
+      "class": "Support",
+      "rarity": "Rare",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 2,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Da Capo",
+        "gadget": "Tuning Fork"
+      },
+      "topMode": "duoShowdown"
+    },
+    "16000012": {
+      "name": "Crow",
+      "class": "Assassin",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Extra Toxic",
+        "gadget": "Instapoison"
+      },
+      "topMode": "soloShowdown"
+    },
+    "16000011": {
+      "name": "Mortis",
+      "class": "Assassin",
+      "rarity": "Mythic",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 5,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Creepy Harvest",
+        "gadget": "Combo Spinner"
+      },
+      "topMode": "brawlBall"
+    },
+    "16000010": {
+      "name": "El Primo",
+      "class": "Tank",
+      "rarity": "Rare",
+      "ratings": {
+        "gemGrab": 2,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 2,
+        "bounty": 1,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "El Fuego",
+        "gadget": "Suplex Supplement"
+      },
+      "topMode": "hotZone"
+    },
+    "16000009": {
+      "name": "Dynamike",
+      "class": "Artillery",
+      "rarity": "Super Rare",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 2,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Dyna-Jump",
+        "gadget": "Fidget Spinner"
+      },
+      "topMode": "fiveVsFive"
+    },
+    "16000008": {
+      "name": "Nita",
+      "class": "Damage Dealer",
+      "rarity": "Rare",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 4,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Bear With Me",
+        "gadget": "Bear Paws"
+      },
+      "topMode": "heist"
+    },
+    "16000007": {
+      "name": "Jessie",
+      "class": "Controller",
+      "rarity": "Super Rare",
+      "ratings": {
+        "gemGrab": 4,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Energize",
+        "gadget": "Spark Plug"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000006": {
+      "name": "Barley",
+      "class": "Artillery",
+      "rarity": "Rare",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 2,
+        "knockout": 3,
+        "bounty": 2,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Medical Use",
+        "gadget": "Sticky Syrup Mixer"
+      },
+      "topMode": "hotZone"
+    },
+    "16000005": {
+      "name": "Spike",
+      "class": "Damage Dealer",
+      "rarity": "Legendary",
+      "ratings": {
+        "gemGrab": 5,
+        "heist": 3,
+        "brawlBall": 4,
+        "knockout": 4,
+        "bounty": 4,
+        "hotZone": 5,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 5
+      },
+      "bestBuild": {
+        "starPower": "Fertilize",
+        "gadget": "Popping Pincushion"
+      },
+      "topMode": "gemGrab"
+    },
+    "16000004": {
+      "name": "Rico",
+      "class": "Damage Dealer",
+      "rarity": "Super Rare",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 4,
+        "bounty": 3,
+        "hotZone": 3,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Super Bouncy",
+        "gadget": "Multiball Launcher"
+      },
+      "topMode": "knockout"
+    },
+    "16000003": {
+      "name": "Brock",
+      "class": "Marksman",
+      "rarity": "Rare",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 3,
+        "brawlBall": 2,
+        "knockout": 4,
+        "bounty": 4,
+        "hotZone": 2,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "More Rockets",
+        "gadget": "Rocket Laces"
+      },
+      "topMode": "knockout"
+    },
+    "16000002": {
+      "name": "Bull",
+      "class": "Tank",
+      "rarity": "Rare",
+      "ratings": {
+        "gemGrab": 2,
+        "heist": 3,
+        "brawlBall": 3,
+        "knockout": 2,
+        "bounty": 1,
+        "hotZone": 4,
+        "soloShowdown": 2,
+        "duoShowdown": 3,
+        "fiveVsFive": 3
+      },
+      "bestBuild": {
+        "starPower": "Berserker",
+        "gadget": "T-Bone Missile"
+      },
+      "topMode": "hotZone"
+    },
+    "16000001": {
+      "name": "Colt",
+      "class": "Damage Dealer",
+      "rarity": "Rare",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 3,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 4,
+        "duoShowdown": 4,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Slick Boots",
+        "gadget": "Speedloader"
+      },
+      "topMode": "heist"
+    },
+    "16000000": {
+      "name": "Shelly",
+      "class": "Damage Dealer",
+      "rarity": "Common",
+      "ratings": {
+        "gemGrab": 3,
+        "heist": 4,
+        "brawlBall": 3,
+        "knockout": 4,
+        "bounty": 3,
+        "hotZone": 4,
+        "soloShowdown": 3,
+        "duoShowdown": 3,
+        "fiveVsFive": 4
+      },
+      "bestBuild": {
+        "starPower": "Shell Shock",
+        "gadget": "Fast Forward"
+      },
+      "topMode": "heist"
+    }
+  }
+}
