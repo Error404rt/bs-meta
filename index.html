@@ -10,72 +10,40 @@
   <link rel="preconnect" href="https://api.brawlapi.com" />
   <link rel="stylesheet" href="styles.css" />
 </head>
-<body>
-  <header class="topbar">
-    <div class="creator-boost" title="Используй код в магазине Brawl Stars">
-      <span class="cc-label">CONTENT CREATOR BOOST</span>
-      <span class="cc-code">Goshakotanov</span>
-    </div>
+<body data-view="main">
 
-    <h1 class="logo">
-      <span class="logo-shadow">BS META</span>
-      <span class="logo-sub">Актуальный анализ сезона</span>
-    </h1>
+  <!-- ================= MAIN VIEW: сетка пинов ================= -->
+  <main id="mainView" class="view view-main">
+    <header class="topbar">
+      <div class="creator-boost-top" title="Используй код в магазине Brawl Stars">
+        <span class="cc-label">CONTENT CREATOR BOOST</span>
+        <span class="cc-code">Goshakotanov</span>
+      </div>
 
-    <button id="refreshBtn" class="bs-btn refresh">
-      <span>ОБНОВИТЬ</span>
-    </button>
-  </header>
+      <h1 class="logo">
+        <span class="logo-shadow">BS META</span>
+        <span class="logo-sub">Актуальный анализ сезона</span>
+      </h1>
 
-  <section class="rotation" id="rotation">
-    <h2 class="section-title">Активные карты сейчас</h2>
-    <div class="rotation-grid" id="rotationGrid">
-      <div class="loading">Загружаем актуальную ротацию…</div>
-    </div>
-    <p class="rotation-meta" id="rotationMeta"></p>
-  </section>
-
-  <section class="brawlers">
-    <h2 class="section-title">Бойцы <span id="brawlerCount" class="muted"></span></h2>
-    <div class="filters">
-      <input id="searchInput" type="search" placeholder="Поиск бойца…" autocomplete="off" />
-      <select id="classFilter">
-        <option value="">Все классы</option>
-      </select>
-      <select id="modeFilter">
-        <option value="">Все режимы</option>
-        <option value="gemGrab">Gem Grab</option>
-        <option value="heist">Heist</option>
-        <option value="brawlBall">Brawl Ball</option>
-        <option value="knockout">Knockout</option>
-        <option value="bounty">Bounty</option>
-        <option value="hotZone">Hot Zone</option>
-        <option value="soloShowdown">Solo SD</option>
-        <option value="duoShowdown">Duo SD</option>
-        <option value="fiveVsFive">5v5</option>
-      </select>
-      <select id="sortBy">
-        <option value="name">Сорт.: по имени</option>
-        <option value="meta">Сорт.: топ мета</option>
-      </select>
-    </div>
+      <button id="refreshBtn" class="bs-btn refresh"><span>ОБНОВИТЬ</span></button>
+    </header>
 
     <div id="brawlerGrid" class="brawler-grid">
       <div class="loading">Загружаем бойцов…</div>
     </div>
+
+    <footer class="foot">
+      Данные: brawlify.com · brawlapi.com · Тиры обновляются по балансным патчам.
+    </footer>
+  </main>
+
+  <!-- ================= BRAWLER VIEW: карточка ================= -->
+  <section id="brawlerView" class="view view-brawler" aria-hidden="true">
+    <button id="backBtn" class="back-btn" aria-label="Назад">
+      <span>←</span>
+    </button>
+    <div id="brawlerCard" class="brawler-card"><!-- заполняется JS --></div>
   </section>
-
-  <div id="modal" class="modal hidden" aria-hidden="true">
-    <div class="modal-backdrop" data-close></div>
-    <div class="modal-card" role="dialog" aria-modal="true">
-      <button class="modal-close" data-close aria-label="Закрыть">×</button>
-      <div class="modal-body" id="modalBody"></div>
-    </div>
-  </div>
-
-  <footer class="foot">
-    Источники данных: brawlify.com и brawlapi.com. Тиры обновляются ежесезонно по изменениям баланса.
-  </footer>
 
   <script src="app.js"></script>
 </body>

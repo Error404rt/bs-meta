@@ -1,5 +1,5 @@
 {
-  "updatedFor": "Текущий сезон (на основе последнего обновления баланса)",
+  "updatedFor": "Текущий сезон",
   "brawlers": {
     "16000106": {
       "name": "Bolt",
@@ -16,11 +16,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Toss Up",
         "gadget": "Rocket Laces"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000105": {
       "name": "Starr Nova",
@@ -37,11 +37,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Power Level Maximum",
         "gadget": "Floaty Time"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000104": {
       "name": "Damian",
@@ -58,11 +58,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Crowdkill",
         "gadget": "Spiritual Healing"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000103": {
       "name": "Najia",
@@ -79,11 +79,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Poisonous Protector",
         "gadget": "Poison Puddles"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000102": {
       "name": "Sirius",
@@ -100,11 +100,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 5
       },
+      "topMode": "knockout",
       "bestBuild": {
         "starPower": "Dusk Runners",
         "gadget": "A Starr Is Born"
-      },
-      "topMode": "knockout"
+      }
     },
     "16000101": {
       "name": "Glowy",
@@ -121,11 +121,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Biotic Ecosystem",
         "gadget": "Slippery Savior"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000100": {
       "name": "Gigi",
@@ -142,11 +142,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Plie Protection",
         "gadget": "Longer Strings"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000099": {
       "name": "Pierce",
@@ -163,11 +163,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "knockout",
       "bestBuild": {
         "starPower": "Mission Swimpossible",
         "gadget": "Bottomless Mags"
-      },
-      "topMode": "knockout"
+      }
     },
     "16000098": {
       "name": "Ziggy",
@@ -184,11 +184,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Thunderstruck",
         "gadget": "Electric Shuffle"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000097": {
       "name": "Mina",
@@ -205,11 +205,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Zum Zum Zum",
         "gadget": "Windmill"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000096": {
       "name": "Trunk",
@@ -226,11 +226,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "New Insect Overlords",
         "gadget": "For The Queen"
-      },
-      "topMode": "heist"
+      }
     },
     "16000095": {
       "name": "Alli",
@@ -247,11 +247,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Lizard Limbs",
         "gadget": "Feed The Gators"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000094": {
       "name": "Kaze",
@@ -268,11 +268,11 @@
         "duoShowdown": 5,
         "fiveVsFive": 4
       },
+      "topMode": "soloShowdown",
       "bestBuild": {
         "starPower": "Advanced Techniques",
         "gadget": "Gracious Host"
-      },
-      "topMode": "soloShowdown"
+      }
     },
     "16000093": {
       "name": "Jae-Yong",
@@ -289,11 +289,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "soloShowdown",
       "bestBuild": {
         "starPower": "The Crowd Goes Mild",
         "gadget": "Weekend Warrior"
-      },
-      "topMode": "soloShowdown"
+      }
     },
     "16000092": {
       "name": "Finx",
@@ -310,11 +310,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Hieroglyph Halt",
         "gadget": "Back To The Finxture"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000091": {
       "name": "Lumi",
@@ -331,11 +331,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "42% Burnt",
         "gadget": "Hit The Lights"
-      },
-      "topMode": "heist"
+      }
     },
     "16000090": {
       "name": "Ollie",
@@ -352,11 +352,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Kick Push",
         "gadget": "Regulate"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000089": {
       "name": "Meeple",
@@ -373,11 +373,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Do Not Pass Go",
         "gadget": "Mansions Of Meeple"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000088": {
       "name": "Buzz Lightyear",
@@ -394,11 +394,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Laser Mode",
         "gadget": "Turbo Boosters"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000087": {
       "name": "Juju",
@@ -415,11 +415,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "hotZone",
       "bestBuild": {
         "starPower": "Guarded Gris-Gris",
         "gadget": "Voodoo Chile"
-      },
-      "topMode": "hotZone"
+      }
     },
     "16000086": {
       "name": "Shade",
@@ -436,11 +436,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "soloShowdown",
       "bestBuild": {
         "starPower": "Spooky Speedster",
         "gadget": "Longarms"
-      },
-      "topMode": "soloShowdown"
+      }
     },
     "16000085": {
       "name": "Kenji",
@@ -457,11 +457,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "soloShowdown",
       "bestBuild": {
         "starPower": "Studied The Blade",
         "gadget": "Dashi Dash"
-      },
-      "topMode": "soloShowdown"
+      }
     },
     "16000084": {
       "name": "Moe",
@@ -478,11 +478,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "hotZone",
       "bestBuild": {
         "starPower": "Skipping Stones",
         "gadget": "Dodgy Digging"
-      },
-      "topMode": "hotZone"
+      }
     },
     "16000083": {
       "name": "Clancy",
@@ -499,11 +499,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 5
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Recon",
         "gadget": "Snappy Shooting"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000082": {
       "name": "Berry",
@@ -520,11 +520,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Floor Is Fine",
         "gadget": "Friendship Is Great"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000081": {
       "name": "Lily",
@@ -541,11 +541,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "soloShowdown",
       "bestBuild": {
         "starPower": "Spiky",
         "gadget": "Vanish"
-      },
-      "topMode": "soloShowdown"
+      }
     },
     "16000080": {
       "name": "Draco",
@@ -562,11 +562,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Expose",
         "gadget": "Upper Cut"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000079": {
       "name": "Angelo",
@@ -583,11 +583,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "bounty",
       "bestBuild": {
         "starPower": "Empower",
         "gadget": "Stinging Flight"
-      },
-      "topMode": "bounty"
+      }
     },
     "16000078": {
       "name": "Melodie",
@@ -604,11 +604,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Fast Beats",
         "gadget": "Perfect Pitch"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000077": {
       "name": "Larry & Lawrie",
@@ -625,11 +625,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Protocol Protect",
         "gadget": "Order Swap"
-      },
-      "topMode": "heist"
+      }
     },
     "16000076": {
       "name": "Kit",
@@ -646,11 +646,11 @@
         "duoShowdown": 5,
         "fiveVsFive": 4
       },
+      "topMode": "duoShowdown",
       "bestBuild": {
         "starPower": "Power Hungry",
         "gadget": "Cardboard Box"
-      },
-      "topMode": "duoShowdown"
+      }
     },
     "16000075": {
       "name": "Mico",
@@ -667,11 +667,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "soloShowdown",
       "bestBuild": {
         "starPower": "Monkey Business",
         "gadget": "Clipping Scream"
-      },
-      "topMode": "soloShowdown"
+      }
     },
     "16000074": {
       "name": "Charlie",
@@ -688,11 +688,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Digestive",
         "gadget": "Spiders"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000073": {
       "name": "Chuck",
@@ -709,11 +709,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Pit Stop",
         "gadget": "Rerouting"
-      },
-      "topMode": "heist"
+      }
     },
     "16000072": {
       "name": "Pearl",
@@ -730,11 +730,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 5
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Heat Retention",
         "gadget": "Overcooked"
-      },
-      "topMode": "heist"
+      }
     },
     "16000071": {
       "name": "Doug",
@@ -751,11 +751,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Fast Food",
         "gadget": "Double Sausage"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000070": {
       "name": "Cordelius",
@@ -772,11 +772,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Comboshrooms",
         "gadget": "Replanting"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000069": {
       "name": "Hank",
@@ -793,11 +793,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Its Gonna Blow",
         "gadget": "Water Balloons"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000068": {
       "name": "Maisie",
@@ -814,11 +814,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "knockout",
       "bestBuild": {
         "starPower": "Pinpoint Precision",
         "gadget": "Disengage"
-      },
-      "topMode": "knockout"
+      }
     },
     "16000067": {
       "name": "Willow",
@@ -835,11 +835,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Love Is Blind",
         "gadget": "Spellbound"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000066": {
       "name": "R-T",
@@ -856,11 +856,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Quick Maths",
         "gadget": "Out Of Line"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000065": {
       "name": "Mandy",
@@ -877,11 +877,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "knockout",
       "bestBuild": {
         "starPower": "In My Sights",
         "gadget": "Caramelize"
-      },
-      "topMode": "knockout"
+      }
     },
     "16000064": {
       "name": "Gray",
@@ -898,11 +898,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Fake Injury",
         "gadget": "Walking Cane"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000063": {
       "name": "Chester",
@@ -919,11 +919,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Single Bellomania",
         "gadget": "Spicy Dice"
-      },
-      "topMode": "heist"
+      }
     },
     "16000062": {
       "name": "Buster",
@@ -940,11 +940,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Blockbuster",
         "gadget": "Utility Belt"
-      },
-      "topMode": "heist"
+      }
     },
     "16000061": {
       "name": "Gus",
@@ -961,11 +961,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "duoShowdown",
       "bestBuild": {
         "starPower": "Health Bonanza",
         "gadget": "Kooky Popper"
-      },
-      "topMode": "duoShowdown"
+      }
     },
     "16000060": {
       "name": "Sam",
@@ -982,11 +982,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Hearty Recovery",
         "gadget": "Magnetic Field"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000059": {
       "name": "Otis",
@@ -1003,11 +1003,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Stencil Glue",
         "gadget": "Dormant Star"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000058": {
       "name": "Bonnie",
@@ -1024,11 +1024,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Black Powder",
         "gadget": "Sugar Rush"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000057": {
       "name": "Janet",
@@ -1045,11 +1045,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "bounty",
       "bestBuild": {
         "starPower": "Stage View",
         "gadget": "Drop The Bass"
-      },
-      "topMode": "bounty"
+      }
     },
     "16000056": {
       "name": "Eve",
@@ -1066,11 +1066,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Unnatural Order",
         "gadget": "Gotta Go"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000054": {
       "name": "Fang",
@@ -1087,11 +1087,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Fresh Kicks",
         "gadget": "Corn-Fu"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000053": {
       "name": "Lola",
@@ -1108,11 +1108,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Improvise",
         "gadget": "Freeze Frame"
-      },
-      "topMode": "heist"
+      }
     },
     "16000052": {
       "name": "Meg",
@@ -1129,11 +1129,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Force Field",
         "gadget": "Jolting Volts"
-      },
-      "topMode": "heist"
+      }
     },
     "16000051": {
       "name": "Ash",
@@ -1150,11 +1150,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "First Bash",
         "gadget": "Chill Pill"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000050": {
       "name": "Griff",
@@ -1171,11 +1171,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Keep The Change",
         "gadget": "Piggy Bank"
-      },
-      "topMode": "heist"
+      }
     },
     "16000049": {
       "name": "Buzz",
@@ -1192,11 +1192,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Tougher Torpedo",
         "gadget": "Reserve Buoy"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000048": {
       "name": "Grom",
@@ -1213,11 +1213,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "hotZone",
       "bestBuild": {
         "starPower": "Foot Patrol",
         "gadget": "Watchtower"
-      },
-      "topMode": "hotZone"
+      }
     },
     "16000047": {
       "name": "Squeak",
@@ -1234,11 +1234,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Chain Reaction",
         "gadget": "Windup"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000046": {
       "name": "Belle",
@@ -1255,11 +1255,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "bounty",
       "bestBuild": {
         "starPower": "Positive Feedback",
         "gadget": "Nest Egg"
-      },
-      "topMode": "bounty"
+      }
     },
     "16000045": {
       "name": "Stu",
@@ -1276,11 +1276,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Zero Drag",
         "gadget": "Speed Zone"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000044": {
       "name": "Ruffs",
@@ -1297,11 +1297,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "duoShowdown",
       "bestBuild": {
         "starPower": "Air Superiority",
         "gadget": "Take Cover"
-      },
-      "topMode": "duoShowdown"
+      }
     },
     "16000043": {
       "name": "Edgar",
@@ -1318,11 +1318,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Hard Landing",
         "gadget": "Lets Fly"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000042": {
       "name": "Byron",
@@ -1339,11 +1339,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Malaise",
         "gadget": "Shot In The Arm"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000041": {
       "name": "Lou",
@@ -1360,11 +1360,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Supercool",
         "gadget": "Ice Block"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000040": {
       "name": "Amber",
@@ -1381,11 +1381,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Wild Flames",
         "gadget": "Fire Starters"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000039": {
       "name": "Colette",
@@ -1402,11 +1402,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Push It",
         "gadget": "Na-Ah"
-      },
-      "topMode": "heist"
+      }
     },
     "16000038": {
       "name": "Surge",
@@ -1423,11 +1423,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "To The Max",
         "gadget": "Power Surge"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000037": {
       "name": "Sprout",
@@ -1444,11 +1444,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Overgrowth",
         "gadget": "Garden Mulcher"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000036": {
       "name": "Nani",
@@ -1465,11 +1465,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "soloShowdown",
       "bestBuild": {
         "starPower": "Autofocus",
         "gadget": "Warpin Time"
-      },
-      "topMode": "soloShowdown"
+      }
     },
     "16000035": {
       "name": "Gale",
@@ -1486,11 +1486,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Blustery Blow",
         "gadget": "Spring Ejector"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000034": {
       "name": "Jacky",
@@ -1507,11 +1507,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Counter Crush",
         "gadget": "Pneumatic Booster"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000032": {
       "name": "Max",
@@ -1528,11 +1528,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Super Charged",
         "gadget": "Phase Shifter"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000031": {
       "name": "Mr. P",
@@ -1549,11 +1549,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Handle With Care",
         "gadget": "Service Bell"
-      },
-      "topMode": "heist"
+      }
     },
     "16000030": {
       "name": "Emz",
@@ -1570,11 +1570,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "fiveVsFive",
       "bestBuild": {
         "starPower": "Bad Karma",
         "gadget": "Friendzoner"
-      },
-      "topMode": "fiveVsFive"
+      }
     },
     "16000029": {
       "name": "Bea",
@@ -1591,11 +1591,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "knockout",
       "bestBuild": {
         "starPower": "Insta Beaload",
         "gadget": "Honey Molasses"
-      },
-      "topMode": "knockout"
+      }
     },
     "16000028": {
       "name": "Sandy",
@@ -1612,11 +1612,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Rude Sands",
         "gadget": "Sleep Stimulator"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000027": {
       "name": "8-Bit",
@@ -1633,11 +1633,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Boosted Booster",
         "gadget": "Cheat Cartridge"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000026": {
       "name": "Bibi",
@@ -1654,11 +1654,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Home Run",
         "gadget": "Vitamin Booster"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000025": {
       "name": "Carl",
@@ -1675,11 +1675,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Power Throw",
         "gadget": "Heat Ejector"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000024": {
       "name": "Rosa",
@@ -1696,11 +1696,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Plant Life",
         "gadget": "Grow Light"
-      },
-      "topMode": "heist"
+      }
     },
     "16000023": {
       "name": "Leon",
@@ -1717,11 +1717,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "soloShowdown",
       "bestBuild": {
         "starPower": "Smoke Trails",
         "gadget": "Clone Projector"
-      },
-      "topMode": "soloShowdown"
+      }
     },
     "16000022": {
       "name": "Tick",
@@ -1738,11 +1738,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Well Oiled",
         "gadget": "Mine Mania"
-      },
-      "topMode": "heist"
+      }
     },
     "16000021": {
       "name": "Gene",
@@ -1759,11 +1759,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Magic Puffs",
         "gadget": "Lamp Blowout"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000020": {
       "name": "Frank",
@@ -1780,11 +1780,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Power Grab",
         "gadget": "Active Noise Canceling"
-      },
-      "topMode": "heist"
+      }
     },
     "16000019": {
       "name": "Penny",
@@ -1801,11 +1801,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Heavy Coffers",
         "gadget": "Salty Barrel"
-      },
-      "topMode": "heist"
+      }
     },
     "16000018": {
       "name": "Darryl",
@@ -1822,11 +1822,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Steel Hoops",
         "gadget": "Recoiling Rotator"
-      },
-      "topMode": "heist"
+      }
     },
     "16000017": {
       "name": "Tara",
@@ -1843,11 +1843,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Black Portal",
         "gadget": "Psychic Enhancer"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000016": {
       "name": "Pam",
@@ -1864,11 +1864,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Mamas Hug",
         "gadget": "Pulse Modulator"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000015": {
       "name": "Piper",
@@ -1885,11 +1885,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "knockout",
       "bestBuild": {
         "starPower": "Ambush",
         "gadget": "Auto Aimer"
-      },
-      "topMode": "knockout"
+      }
     },
     "16000014": {
       "name": "Bo",
@@ -1906,11 +1906,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Circling Eagle",
         "gadget": "Super Totem"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000013": {
       "name": "Poco",
@@ -1927,11 +1927,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "duoShowdown",
       "bestBuild": {
         "starPower": "Da Capo",
         "gadget": "Tuning Fork"
-      },
-      "topMode": "duoShowdown"
+      }
     },
     "16000012": {
       "name": "Crow",
@@ -1948,11 +1948,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "soloShowdown",
       "bestBuild": {
         "starPower": "Extra Toxic",
         "gadget": "Instapoison"
-      },
-      "topMode": "soloShowdown"
+      }
     },
     "16000011": {
       "name": "Mortis",
@@ -1969,11 +1969,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "brawlBall",
       "bestBuild": {
         "starPower": "Creepy Harvest",
         "gadget": "Combo Spinner"
-      },
-      "topMode": "brawlBall"
+      }
     },
     "16000010": {
       "name": "El Primo",
@@ -1990,11 +1990,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "hotZone",
       "bestBuild": {
         "starPower": "El Fuego",
         "gadget": "Suplex Supplement"
-      },
-      "topMode": "hotZone"
+      }
     },
     "16000009": {
       "name": "Dynamike",
@@ -2011,11 +2011,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "fiveVsFive",
       "bestBuild": {
         "starPower": "Dyna-Jump",
         "gadget": "Fidget Spinner"
-      },
-      "topMode": "fiveVsFive"
+      }
     },
     "16000008": {
       "name": "Nita",
@@ -2032,11 +2032,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Bear With Me",
         "gadget": "Bear Paws"
-      },
-      "topMode": "heist"
+      }
     },
     "16000007": {
       "name": "Jessie",
@@ -2053,11 +2053,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Energize",
         "gadget": "Spark Plug"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000006": {
       "name": "Barley",
@@ -2074,11 +2074,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "hotZone",
       "bestBuild": {
         "starPower": "Medical Use",
         "gadget": "Sticky Syrup Mixer"
-      },
-      "topMode": "hotZone"
+      }
     },
     "16000005": {
       "name": "Spike",
@@ -2095,11 +2095,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 5
       },
+      "topMode": "gemGrab",
       "bestBuild": {
         "starPower": "Fertilize",
         "gadget": "Popping Pincushion"
-      },
-      "topMode": "gemGrab"
+      }
     },
     "16000004": {
       "name": "Rico",
@@ -2116,11 +2116,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 3
       },
+      "topMode": "knockout",
       "bestBuild": {
         "starPower": "Super Bouncy",
         "gadget": "Multiball Launcher"
-      },
-      "topMode": "knockout"
+      }
     },
     "16000003": {
       "name": "Brock",
@@ -2137,11 +2137,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "knockout",
       "bestBuild": {
         "starPower": "More Rockets",
         "gadget": "Rocket Laces"
-      },
-      "topMode": "knockout"
+      }
     },
     "16000002": {
       "name": "Bull",
@@ -2158,11 +2158,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 3
       },
+      "topMode": "hotZone",
       "bestBuild": {
         "starPower": "Berserker",
         "gadget": "T-Bone Missile"
-      },
-      "topMode": "hotZone"
+      }
     },
     "16000001": {
       "name": "Colt",
@@ -2179,11 +2179,11 @@
         "duoShowdown": 4,
         "fiveVsFive": 4
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Slick Boots",
         "gadget": "Speedloader"
-      },
-      "topMode": "heist"
+      }
     },
     "16000000": {
       "name": "Shelly",
@@ -2200,11 +2200,11 @@
         "duoShowdown": 3,
         "fiveVsFive": 4
       },
+      "topMode": "heist",
       "bestBuild": {
         "starPower": "Shell Shock",
         "gadget": "Fast Forward"
-      },
-      "topMode": "heist"
+      }
     }
   }
 }
